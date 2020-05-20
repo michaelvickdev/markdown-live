@@ -1,11 +1,15 @@
 <h1 align="center">
-  <a href="https://mdlive-alewis.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/51219653/82973458-0cb39900-9f9d-11ea-8f60-a24c37fad956.png" alt="Markdown Live" width="350"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/51219653/82973458-0cb39900-9f9d-11ea-8f60-a24c37fad956.png" alt="Markdown Live" width="350"></a>
   <br>
   Markdown Live
   <br>
 </h1>
 
 <h4 align="center">A markdown editor with live preview and interactions with other users.</h4>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51219653/83337498-77a4ee80-a281-11ea-8055-94a32f9d8ce6.gif">
+</p>
 
 ## Description
 
@@ -22,7 +26,7 @@ Markdown live was made using [react](https://github.com/facebook/react#react----
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/alewis729/mdlive
+$ git clone https://github.com/yoyodev-gold/markdownlive
 
 # Go into the repository
 $ cd mdlive
@@ -40,4 +44,4 @@ $ npm run dev
 
 ## Known issues
 
-There are some known issues that, for the time being, are listed [here](https://github.com/alewis729/mdlive/issues/1) along with some other improvements.
+There are some known issues that, for the time being, are listed [here](https://github.com/yoyodev-eng/markdownlive/issues/1) along with some other improvements.
